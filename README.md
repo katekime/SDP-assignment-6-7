@@ -1,4 +1,4 @@
-📄 Project Readme Report: Hero Battle System Architecture
+Project Readme Report: Hero Battle System Architecture
 This report outlines the design and architectural patterns used in the Java implementation of a simple Hero Battle System. The project is designed for maintainability and flexibility using object-oriented principles and established behavioral design patterns.
 
 1. Core System Structure
